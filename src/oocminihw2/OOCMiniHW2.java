@@ -15,6 +15,8 @@ public class OOCMiniHW2 {
      */
     public static void main(String[] args) {
         
+        Bus bus = new Bus("DublinBus", "Volvo", 4);
+        
     }
     
 }
