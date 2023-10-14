@@ -21,7 +21,7 @@ public class OOCMiniHW2 {
         
         Bus bus = new Bus("DublinBus", "Volvo", 4);
         AirPlane airplane = new AirPlane("Ryanair", "123", 300);
-        SailBoat sailboat = new SailBoat("Beneteau", "Sailboat", 6);
+        SailBoat sailboat = new SailBoat("Titanic", "Sailboat", 6);
     }
     
 }
