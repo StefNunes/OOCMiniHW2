@@ -15,7 +15,7 @@ public class Bus extends Vehicle implements Drivable {
         this.numWheels = 4;
         this.numPassengers = numPassengers;
     }
-
+//all override from drivable 
     @Override
     public void accelerate(float speed) {
         // Implement the acceleration logic for a car.

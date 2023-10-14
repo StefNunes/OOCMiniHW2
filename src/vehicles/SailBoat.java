@@ -17,7 +17,7 @@ import vehicles.Vehicle;
         this.make = make;
         this.type = type;
         this.numPassengers = numPassengers;
-        this.numSails = 1; // A typical sailboat has 1 sail
+        this.numSails = 1; 
     }
 
     @Override
