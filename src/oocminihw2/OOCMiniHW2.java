@@ -4,6 +4,10 @@
  */
 package oocminihw2;
 
+import vehicles.AirPlane;
+import vehicles.Bus;
+import vehicles.SailBoat;
+
 /**
  *
  * @author sweiss
@@ -16,7 +20,8 @@ public class OOCMiniHW2 {
     public static void main(String[] args) {
         
         Bus bus = new Bus("DublinBus", "Volvo", 4);
-        
+        AirPlane airplane = new AirPlane("Ryanair", "123", 300);
+        SailBoat sailboat = new SailBoat("Beneteau", "Sailboat", 6);
     }
     
 }
